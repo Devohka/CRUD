@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "server": "npx json-server frutis.json",
+    "server": "npx json-server products.json",
     "start": "vite",
     "build": "vite build --base=//"
   },
